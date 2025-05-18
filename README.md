@@ -13,6 +13,7 @@ A console-based endless runner game in C++ with player movement, obstacles, coin
 - [High Scores](#high-scores)
 - [Author](#author)
 - [License](#license)
+- [ScreenShots]_(#ScreenShots)_
 
 ---
 
@@ -67,3 +68,10 @@ This game runs in the Windows console and simulates an endless runner where the 
 4. Compile the code using your compiler:
    ```sh
    g++ EndlessRunner.cpp -o EndlessRunner.exe
+---
+
+## Screenshots
+
+You can view the game screenshots here: [View Screenshots](https://docs.google.com/document/d/e/2PACX-1vTxTqeH3RsKZkVMOb341TIOhIMF-n7QaAurlfvxyLQDnPVAHXRUpi9ZScaemVZG7D-ltFe435jwsLw0/pub)
+
+
